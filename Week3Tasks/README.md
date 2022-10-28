@@ -1,4 +1,4 @@
-#week 3
+# week 3
 
 On the third week of Zuri training internship, we were asked to create:
 
